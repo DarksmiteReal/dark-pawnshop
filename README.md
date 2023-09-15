@@ -1,3 +1,4 @@
+GithubInfo = { 
 Config = {}
 Config.framwork = "qb" -- "qb" or "esx"
 
@@ -81,3 +82,4 @@ Config.Positions = {
     --discord log messages
     ["sold"] = "Sold",
     }
+}
